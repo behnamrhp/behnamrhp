@@ -3,7 +3,7 @@
 
 - 🏨 I’m currently working at [OOO Комфортел](https://comfortel.pro/)
 
-- 🌱 My Area of Interest's **Software engineering thinking, Architectures, patterns and new Techs or Ideas**
+- 🌱 My Area of Interest's **Software engineer thinking, Architectures, patterns and new Techs or Ideas**
 
 - 📫 How to reach me **behnamrahimpour74@gmail.com**
 
