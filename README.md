@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Behnam Rahimpour</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🏨 I’m currently working at [Idea Bonyan Vira](http://virabook.ir/)
+- 🏨 I’m currently working at [OOO Комфортел](https://comfortel.pro/)
 
-- 🌱 My Area of Interest's **Front-End, cloud development, Testing and new Techs**
+- 🌱 My Area of Interest's **Software engineering thinking, Architectures, patterns and new Techs or Ideas**
 
 - 📫 How to reach me **behnamrahimpour74@gmail.com**
 
