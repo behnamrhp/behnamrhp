@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Behnam</h1>
-<h3 align="center">A passionate and curious Fullstack engineer</h3>
+<h3 align="center">A passionate and curious Software developer</h3>
 
 - 🏨 I’m currently working at [OOO Комфортел](https://comfortel.pro/)
 
-- My Area of Interests is: **Architecture, patterns, new Techs and Ideas**
+- My Areas of Interest are: **Architecture, patterns, new Techs and Ideas**
 
 - 📫 How to reach me **behnamrahimpour74@gmail.com**
 
