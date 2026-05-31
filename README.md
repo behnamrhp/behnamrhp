@@ -47,8 +47,16 @@
     <td><a href="https://prometheus.io/"><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40" height="40"/></a></td>
   </tr>
 </table>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=behnamrhp&show_icons=true&locale=en&layout=compact" alt="behnamrhp" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=behnamrhp&show_icons=true&locale=en" alt="behnamrhp" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=behnamrhp&" alt="behnamrhp" /></p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=behnamrhp&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=behnamrhp&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=behnamrhp&theme=tokyonight&hide_border=true" />
+</p>
+
+
